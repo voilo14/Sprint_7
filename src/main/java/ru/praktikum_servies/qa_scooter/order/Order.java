@@ -19,7 +19,7 @@ public class Order {
         this.metroStation = "Прокопьевск";
         this.phone = "89996665522";
         this.rentTime = "6";
-        this.deliveryDate = "18.02.2023";
+        this.deliveryDate = "2023-02-22T00:00:00.000Z";
         this.comment = "comment";
         this.color = color;
     }
